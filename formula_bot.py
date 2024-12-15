@@ -3,7 +3,7 @@ from time import sleep
 
 # Настройки
 TELEGRAM_TOKEN = '7423664576:AAEp4qRlj-47puKPLAg1tLYptLkED6yH2HM'  # Токен для работы с Telegram API
-CHAT_ID = '-4697233265'  # Идентификатор чата Telegram, куда будут отправляться сообщения
+CHAT_ID = '-1002379376855'  # Идентификатор чата Telegram, куда будут отправляться сообщения
 CHECK_INTERVAL = 60  # Интервал проверки стакана в секундах
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"  # URL для отправки сообщений в Telegram
 HEADERS = {'User-Agent': 'Mozilla/5.0'}  # Заголовок для запросов к API Binance
