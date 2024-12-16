@@ -1,1 +1,5 @@
 requests==2.31.0
+urllib3==2.2.3
+certifi==2024.12.14
+idna==3.10
+charset-normalizer==3.4.0
